@@ -15,7 +15,7 @@ export default {
             type: 'reference',
             to : { type: 'post' },
             validation: (Rule) => Rule.required(),
-        }
+        },
     ],
     preview: {
         select: {

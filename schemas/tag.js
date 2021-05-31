@@ -24,6 +24,6 @@ export default {
     select: {
       title: 'title',
       subtitle: 'slug.current',
-    }
-  }
-}
+    },
+  },
+};
